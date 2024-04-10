@@ -76,16 +76,16 @@ async def start(_, msg):
 
 gd_buttons = [              
         [
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/THE_FRIENDZ"),    
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/AMRIT_X_SUPPORT"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/AMRIT_X_SUPPORTS"),    
         ]
         ]
 # ------------------------------------------------------------------------------- #
 
 ROY_BTN = [              
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),    
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/AMRIT_X_SUPPORTS"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/AMRIT_X_SUPPORT"),    
         ]
 ]
 # ------------------------------------------------------------------------------- #
@@ -160,14 +160,14 @@ REPO_STRING = """**
 async def start(_, msg):
     REPO_BTN = [
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/tinaarobot/COPYRIGHT"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/AMRIT_X_SUPPORTS"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/telegrambot622/COPYRIGHT_AMRIT-"),
           ],
     ]
     
     reply_markup = InlineKeyboardMarkup(REPO_BTN)
     
-    await msg.reply_photo(photo="https://telegra.ph/file/feb8ec9cd6194018ccc4c.jpg", caption=REPO_STRING,reply_markup=reply_markup
+    await msg.reply_photo(photo="https://telegra.ph/file/1af24255ebc2ea08cd0b9.jpg", caption=REPO_STRING,reply_markup=reply_markup
                          )
 
 
