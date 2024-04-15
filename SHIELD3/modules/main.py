@@ -50,7 +50,7 @@ NYKAA = [
 ]
 
 
-start_txt = """<b> ❍ ʜɪɪ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ !\n━━━━━━━━━━━━━━━━━━━━━━\n\n❍ ɪ ᴀᴍ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ᴄᴏᴘʏʀɪɢʜᴛ ʙᴏᴛ.\n\n❍ ɪ ʜᴀᴠᴇ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ғᴇᴀᴛᴜʀᴇs.\n\n❍ ᴘᴏᴡᴇʀᴇᴅ 𝐀мяιт 𝐑ɑʝ  ࿐ </b>"""
+start_txt = """<b> ❍ ʜɪɪ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ !\n━━━━━━━━━━━━━━━━━━━━━━\n\n❍ ɪ ᴀᴍ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ᴄᴏᴘʏʀɪɢʜᴛ ʙᴏᴛ.\n\n❍ ɪ ʜᴀᴠᴇ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ғᴇᴀᴛᴜʀᴇs.\n\n❍ ᴘᴏᴡᴇʀᴇᴅ Sʜɪᴠᴀɴɢ  ࿐ </b>"""
 
 @app.on_message(filters.command("start"))
 async def start(_, msg):
@@ -76,16 +76,16 @@ async def start(_, msg):
 
 gd_buttons = [              
         [
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/AMRIT_X_SUPPORT"),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/AMRIT_X_SUPPORTS"),    
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ll_ABOUT_SHIVANG_ll"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/lll_BRANDED_FAMILY_lll"),    
         ]
         ]
 # ------------------------------------------------------------------------------- #
 
 ROY_BTN = [              
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/AMRIT_X_SUPPORTS"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/AMRIT_X_SUPPORT"),    
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/lll_BRANDED_FAMILY_lll"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/ll_ABOUT_SHIVANG_ll"),    
         ]
 ]
 # ------------------------------------------------------------------------------- #
@@ -129,7 +129,7 @@ ABOUT_STRING = """**✦ ɪ ʜᴀᴠᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ɢʀ�
 
 # -------------------------------------------------------------------------------------
 
-HELP_STRING = """**✽ ᴏᴡɴᴇʀ/sᴜᴅᴏ ᴜsᴇʀ ᴄᴍᴅs ⏤͟͟͞͞★\n\n❍ /bcast ➠ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀɴʏ ᴍᴇssᴀɢᴇ.\n❍ /announce ➠ ʀᴇᴘʟʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀɴɴᴏᴜɴᴄᴇ.\n\n✽ ᴀʟʟ ᴜsᴇʀs  ᴄᴏᴍᴍᴀɴᴅs ⏤͟͟͞͞★\n\n❍ /start ➠ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.\n❍ /ping ➠ ᴄʜᴋ ʙᴏᴛ ᴘɪɴɢ sᴛᴀᴛs.\n❍ /repo ➠ ɢᴇᴛ ʙᴏᴛ ʀᴇᴘᴏ.\n\n❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠  ʀ𝐀мяιт 𝐑ɑʝ  ࿐**"""
+HELP_STRING = """**✽ ᴏᴡɴᴇʀ/sᴜᴅᴏ ᴜsᴇʀ ᴄᴍᴅs ⏤͟͟͞͞★\n\n❍ /bcast ➠ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀɴʏ ᴍᴇssᴀɢᴇ.\n❍ /announce ➠ ʀᴇᴘʟʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀɴɴᴏᴜɴᴄᴇ.\n\n✽ ᴀʟʟ ᴜsᴇʀs  ᴄᴏᴍᴍᴀɴᴅs ⏤͟͟͞͞★\n\n❍ /start ➠ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.\n❍ /ping ➠ ᴄʜᴋ ʙᴏᴛ ᴘɪɴɢ sᴛᴀᴛs.\n❍ /repo ➠ ɢᴇᴛ ʙᴏᴛ ʀᴇᴘᴏ.\n\n❍ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➠  Sʜɪᴠᴀɴɢ  ࿐**"""
 
 # ------------------------------------------------------------------------------- #
 
@@ -160,14 +160,14 @@ REPO_STRING = """**
 async def start(_, msg):
     REPO_BTN = [
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/AMRIT_X_SUPPORTS"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/telegrambot622/COPYRIGHT_AMRIT-"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/lll_BRANDED_FAMILY_lll"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/ll_SHIVANG_ll"),
           ],
     ]
     
     reply_markup = InlineKeyboardMarkup(REPO_BTN)
     
-    await msg.reply_photo(photo="https://telegra.ph/file/1af24255ebc2ea08cd0b9.jpg", caption=REPO_STRING,reply_markup=reply_markup
+    await msg.reply_photo(photo="https://telegra.ph/file/23fc0fc2213809345b4c0.jpg", caption=REPO_STRING,reply_markup=reply_markup
                          )
 
 
